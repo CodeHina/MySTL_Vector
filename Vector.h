@@ -174,7 +174,7 @@ void Vector<T>::expand()
 
 
 //只读访问接口
-#include "RdonlyFunc.h"
+#include "RdonlyFunc.h" //配置此文件的绝对路径
 
 
 //运算符重载
